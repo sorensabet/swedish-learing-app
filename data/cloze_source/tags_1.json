@@ -1,0 +1,277 @@
+[
+ {"id": "a002", "blanks": [
+  {"form": "svårt", "occurrence": 1, "pos": "ADJ", "base": "svår", "rule": "predicative neuter of svår: -t ending"},
+  {"form": "mörka", "occurrence": 1, "pos": "ADJ", "base": "mörk", "rule": "definite/plural form after de: -a ending"},
+  {"form": "enkel", "occurrence": 1, "pos": "ADJ", "base": "enkel", "rule": "en-word indefinite singular: no ending"},
+  {"form": "färdig", "occurrence": 1, "pos": "ADJ", "base": "färdig", "rule": "predicative with står, common gender: no ending"},
+  {"form": "bättre", "occurrence": 1, "pos": "ADV", "base": "bra", "rule": "comparative of bra is irregular: bättre"},
+  {"form": "sena", "occurrence": 1, "pos": "ADJ", "base": "sen", "rule": "plural predicative: -a ending"}
+ ]},
+ {"id": "a008", "blanks": [
+  {"form": "lång", "occurrence": 1, "pos": "ADJ", "base": "lång", "rule": "en-word indefinite singular: no ending"},
+  {"form": "tungt", "occurrence": 1, "pos": "ADJ", "base": "tung", "rule": "neuter predicative after kännas: -t ending"},
+  {"form": "större", "occurrence": 1, "pos": "ADJ", "base": "stor", "rule": "comparative of stor is irregular: större"},
+  {"form": "gott", "occurrence": 1, "pos": "ADJ", "base": "god", "rule": "neuter of god used as noun-like adjective after något: -t ending"},
+  {"form": "hemlagat", "occurrence": 1, "pos": "ADJ", "base": "hemlagad", "rule": "neuter of past participle used as adjective: -t ending"},
+  {"form": "sent", "occurrence": 1, "pos": "ADV", "base": "sen", "rule": "adverb from adjective sen: -t ending"},
+  {"form": "trött", "occurrence": 1, "pos": "ADJ", "base": "trött", "rule": "predicative after jag: form is the same for both genders"}
+ ]},
+ {"id": "a014", "blanks": [
+  {"form": "ovanligt", "occurrence": 1, "pos": "ADV", "base": "ovanlig", "rule": "adverb from adjective ovanlig: -t ending before kall"},
+  {"form": "kall", "occurrence": 1, "pos": "ADJ", "base": "kall", "rule": "predicative, common gender: no ending"},
+  {"form": "snörik", "occurrence": 1, "pos": "ADJ", "base": "snörik", "rule": "predicative compound adjective, common gender: no ending"},
+  {"form": "härligt", "occurrence": 1, "pos": "ADJ", "base": "härlig", "rule": "neuter predicative with det as subject: -t ending"},
+  {"form": "klara", "occurrence": 1, "pos": "ADJ", "base": "klar", "rule": "definite form after det: -a ending"},
+  {"form": "stora", "occurrence": 1, "pos": "ADJ", "base": "stor", "rule": "plural indefinite before noun: -a ending"},
+  {"form": "hala", "occurrence": 1, "pos": "ADJ", "base": "hal", "rule": "plural definite after de: -a ending"},
+  {"form": "hel", "occurrence": 1, "pos": "ADJ", "base": "hel", "rule": "en-word indefinite in en hel del: no ending"}
+ ]},
+ {"id": "a020", "blanks": [
+  {"form": "Många", "occurrence": 1, "pos": "ADJ", "base": "många", "rule": "plural quantifier, base form used as is"},
+  {"form": "billigare", "occurrence": 1, "pos": "ADJ", "base": "billig", "rule": "comparative of billig: -are ending"},
+  {"form": "större", "occurrence": 1, "pos": "ADJ", "base": "stor", "rule": "comparative of stor is irregular: större"},
+  {"form": "mer", "occurrence": 1, "pos": "ADV", "base": "mycket", "rule": "comparative of mycket is irregular: mer"},
+  {"form": "lugnt", "occurrence": 1, "pos": "ADJ", "base": "lugn", "rule": "neuter indefinite after ett lugnt och grönt område: -t ending"},
+  {"form": "grönt", "occurrence": 1, "pos": "ADJ", "base": "grön", "rule": "neuter indefinite after ett: -t ending"},
+  {"form": "bättre", "occurrence": 1, "pos": "ADV", "base": "bra", "rule": "comparative of bra is irregular: bättre"}
+ ]},
+ {"id": "a026", "blanks": [
+  {"form": "ovanliga", "occurrence": 1, "pos": "ADJ", "base": "ovanlig", "rule": "plural predicative: -a ending"},
+  {"form": "särskilt", "occurrence": 1, "pos": "ADV", "base": "särskild", "rule": "adverb from adjective särskild: -t ending"},
+  {"form": "äntligen", "occurrence": 1, "pos": "ADV", "base": "äntlig", "rule": "adverb from adjective äntlig: -en ending"},
+  {"form": "iskall", "occurrence": 1, "pos": "ADJ", "base": "iskall", "rule": "en-word indefinite singular: no ending"},
+  {"form": "fullt", "occurrence": 1, "pos": "ADJ", "base": "full", "rule": "neuter predicative after var det: -t ending"},
+  {"form": "hela", "occurrence": 1, "pos": "ADJ", "base": "hel", "rule": "definite form of hel before vägen: -a ending"}
+ ]},
+ {"id": "a032", "blanks": [
+  {"form": "hela", "occurrence": 1, "pos": "ADJ", "base": "hel", "rule": "definite form of hel before a noun: -a ending"},
+  {"form": "fullare", "occurrence": 1, "pos": "ADJ", "base": "full", "rule": "comparative of full: -are ending"},
+  {"form": "vanligt", "occurrence": 1, "pos": "ADJ", "base": "vanlig", "rule": "neuter form used without a noun after än: -t ending"},
+  {"form": "hela", "occurrence": 2, "pos": "ADJ", "base": "hel", "rule": "definite form of hel before avdelningen: -a ending"},
+  {"form": "nybakade", "occurrence": 1, "pos": "ADJ", "base": "nybakad", "rule": "plural of participle adjective: -e ending"},
+  {"form": "snabbt", "occurrence": 1, "pos": "ADV", "base": "snabb", "rule": "adverb from adjective snabb: -t ending"},
+  {"form": "godaste", "occurrence": 1, "pos": "ADJ", "base": "god", "rule": "superlative definite form after den: godaste"}
+ ]},
+ {"id": "a038", "blanks": [
+  {"form": "gammal", "occurrence": 1, "pos": "ADJ", "base": "gammal", "rule": "en-word indefinite singular: no ending"},
+  {"form": "höga", "occurrence": 1, "pos": "ADJ", "base": "hög", "rule": "plural indefinite before noun: -a ending"},
+  {"form": "råa", "occurrence": 1, "pos": "ADJ", "base": "rå", "rule": "plural indefinite before noun: -a ending"},
+  {"form": "trångt", "occurrence": 1, "pos": "ADJ", "base": "trång", "rule": "neuter predicative after det: -t ending"},
+  {"form": "kunnig", "occurrence": 1, "pos": "ADJ", "base": "kunnig", "rule": "predicative, common gender: no ending"},
+  {"form": "tyngre", "occurrence": 1, "pos": "ADJ", "base": "tung", "rule": "comparative of tung: tyngre"},
+  {"form": "säkert", "occurrence": 1, "pos": "ADJ", "base": "säker", "rule": "neuter indefinite after ett sätt: -t ending"}
+ ]},
+ {"id": "a044", "blanks": [
+  {"form": "bästa", "occurrence": 1, "pos": "ADJ", "base": "bra", "rule": "superlative of bra is irregular: bäst, definite neuter -a"},
+  {"form": "långa", "occurrence": 1, "pos": "ADJ", "base": "lång", "rule": "plural definite after de: -a ending"},
+  {"form": "magiska", "occurrence": 1, "pos": "ADJ", "base": "magisk", "rule": "plural form before noun: -a ending"},
+  {"form": "sent", "occurrence": 1, "pos": "ADV", "base": "sen", "rule": "adverb from adjective sen: -t ending"},
+  {"form": "tidigt", "occurrence": 1, "pos": "ADV", "base": "tidig", "rule": "adverb from adjective tidig: -t ending"},
+  {"form": "riktigt", "occurrence": 1, "pos": "ADV", "base": "riktig", "rule": "adverb from adjective riktig used as intensifier: -t ending"},
+  {"form": "mörkt", "occurrence": 1, "pos": "ADJ", "base": "mörk", "rule": "neuter predicative after blir det: -t ending"},
+  {"form": "Många", "occurrence": 1, "pos": "ADJ", "base": "många", "rule": "plural quantifier, base form used as is"},
+  {"form": "stilla", "occurrence": 1, "pos": "ADJ", "base": "stilla", "rule": "definite form after den: same as base"},
+  {"form": "milda", "occurrence": 1, "pos": "ADJ", "base": "mild", "rule": "definite form after den: -a ending"}
+ ]},
+ {"id": "a050", "blanks": [
+  {"form": "enkel", "occurrence": 1, "pos": "ADJ", "base": "enkel", "rule": "en-word indefinite singular: no ending"},
+  {"form": "rinnande", "occurrence": 1, "pos": "ADJ", "base": "rinnande", "rule": "present participle used as adjective, ett-word: no ending"},
+  {"form": "liten", "occurrence": 1, "pos": "ADJ", "base": "liten", "rule": "en-word indefinite singular: no ending"},
+  {"form": "ovant", "occurrence": 1, "pos": "ADJ", "base": "ovan", "rule": "neuter predicative after var det: -t ending"},
+  {"form": "lugna", "occurrence": 1, "pos": "ADJ", "base": "lugn", "rule": "definite form after det: -a ending"},
+  {"form": "ensliga", "occurrence": 1, "pos": "ADJ", "base": "enslig", "rule": "definite form after det, joined by och: -a ending"},
+  {"form": "öppen", "occurrence": 1, "pos": "ADJ", "base": "öppen", "rule": "en-word indefinite singular: no ending"},
+  {"form": "svala", "occurrence": 1, "pos": "ADJ", "base": "sval", "rule": "definite form after det: -a ending"},
+  {"form": "salta", "occurrence": 1, "pos": "ADJ", "base": "salt", "rule": "definite form after det: -a ending"}
+ ]},
+ {"id": "a056", "blanks": [
+  {"form": "små", "occurrence": 1, "pos": "ADJ", "base": "liten", "rule": "plural of liten is irregular: små"},
+  {"form": "lugn", "occurrence": 1, "pos": "ADJ", "base": "lugn", "rule": "en-word indefinite singular: no ending"},
+  {"form": "äldre", "occurrence": 1, "pos": "ADJ", "base": "gammal", "rule": "comparative of gammal is irregular: äldre"},
+  {"form": "grönt", "occurrence": 1, "pos": "ADJ", "base": "grön", "rule": "neuter indefinite after något: -t ending"},
+  {"form": "yngre", "occurrence": 1, "pos": "ADJ", "base": "ung", "rule": "comparative of ung: yngre"},
+  {"form": "helst", "occurrence": 1, "pos": "ADV", "base": "gärna", "rule": "superlative of gärna is irregular: helst"},
+  {"form": "positiv", "occurrence": 1, "pos": "ADJ", "base": "positiv", "rule": "en-word indefinite singular: no ending"},
+  {"form": "nyttig", "occurrence": 1, "pos": "ADJ", "base": "nyttig", "rule": "en-word indefinite singular: no ending"},
+  {"form": "lättare", "occurrence": 1, "pos": "ADJ", "base": "lätt", "rule": "comparative of lätt: -are ending"},
+  {"form": "verkligen", "occurrence": 1, "pos": "ADV", "base": "verklig", "rule": "adverb from adjective verklig: -en ending"}
+ ]},
+ {"id": "b006", "blanks": [
+  {"form": "lilla", "occurrence": 1, "pos": "ADJ", "base": "liten", "rule": "weak form after possessive mitt before ett-word: -a ending"},
+  {"form": "smalt", "occurrence": 1, "pos": "ADJ", "base": "smal", "rule": "neuter predicative after är: -t ending"},
+  {"form": "tillräckligt", "occurrence": 1, "pos": "ADV", "base": "tillräcklig", "rule": "adverb from adjective tillräcklig: -t ending"},
+  {"form": "stort", "occurrence": 1, "pos": "ADJ", "base": "stor", "rule": "neuter predicative after tillräckligt: -t ending"},
+  {"form": "dyr", "occurrence": 1, "pos": "ADJ", "base": "dyr", "rule": "en-word indefinite singular: no ending"},
+  {"form": "mindre", "occurrence": 1, "pos": "ADJ", "base": "liten", "rule": "comparative of liten is irregular: mindre"},
+  {"form": "definitivt", "occurrence": 1, "pos": "ADV", "base": "definitiv", "rule": "adverb from adjective definitiv: -t ending"},
+  {"form": "värt", "occurrence": 1, "pos": "ADJ", "base": "värd", "rule": "neuter predicative of värd: värt"}
+ ]},
+ {"id": "b012", "blanks": [
+  {"form": "senare", "occurrence": 1, "pos": "ADV", "base": "sen", "rule": "comparative of sen used as adverb: senare"},
+  {"form": "högre", "occurrence": 1, "pos": "ADJ", "base": "hög", "rule": "comparative of hög: -re ending"},
+  {"form": "flexibla", "occurrence": 1, "pos": "ADJ", "base": "flexibel", "rule": "plural predicative: -a ending"},
+  {"form": "nya", "occurrence": 1, "pos": "ADJ", "base": "ny", "rule": "plural weak form after possessive mina: -a ending"},
+  {"form": "trevliga", "occurrence": 1, "pos": "ADJ", "base": "trevlig", "rule": "plural predicative: -a ending"},
+  {"form": "engagerade", "occurrence": 1, "pos": "ADJ", "base": "engagerad", "rule": "plural of participle adjective: -e ending"},
+  {"form": "förvånad", "occurrence": 1, "pos": "ADJ", "base": "förvånad", "rule": "common-gender predicative after är: no ending"},
+  {"form": "faktiskt", "occurrence": 1, "pos": "ADV", "base": "faktisk", "rule": "adverb from adjective faktisk: -t ending"}
+ ]},
+ {"id": "b018", "blanks": [
+  {"form": "färsk", "occurrence": 1, "pos": "ADJ", "base": "färsk", "rule": "en-word indefinite singular: no ending"},
+  {"form": "söta", "occurrence": 1, "pos": "ADJ", "base": "söt", "rule": "plural indefinite before noun: -a ending"},
+  {"form": "enkel", "occurrence": 1, "pos": "ADJ", "base": "enkel", "rule": "common-gender predicative after var: no ending"},
+  {"form": "otroligt", "occurrence": 1, "pos": "ADV", "base": "otrolig", "rule": "adverb from adjective otrolig: -t ending"},
+  {"form": "god", "occurrence": 1, "pos": "ADJ", "base": "god", "rule": "common-gender predicative after var: no ending"},
+  {"form": "salt", "occurrence": 1, "pos": "ADJ", "base": "salt", "rule": "predicative after för: no ending"},
+  {"form": "klassisk", "occurrence": 1, "pos": "ADJ", "base": "klassisk", "rule": "en-word indefinite singular: no ending"},
+  {"form": "absoluta", "occurrence": 1, "pos": "ADJ", "base": "absolut", "rule": "weak form after genitive kvällens: -a ending"}
+ ]},
+ {"id": "b024", "blanks": [
+  {"form": "enkla", "occurrence": 1, "pos": "ADJ", "base": "enkel", "rule": "plural predicative: -a ending"},
+  {"form": "mysiga", "occurrence": 1, "pos": "ADJ", "base": "mysig", "rule": "plural predicative: -a ending"},
+  {"form": "egen", "occurrence": 1, "pos": "ADJ", "base": "egen", "rule": "en-word indefinite singular after sin: no ending"},
+  {"form": "gemensamma", "occurrence": 1, "pos": "ADJ", "base": "gemensam", "rule": "definite form after det: -a ending"},
+  {"form": "härlig", "occurrence": 1, "pos": "ADJ", "base": "härlig", "rule": "en-word indefinite singular: no ending"},
+  {"form": "gott", "occurrence": 1, "pos": "ADV", "base": "god", "rule": "adverb from god used with sova: -t ending"},
+  {"form": "lång", "occurrence": 1, "pos": "ADJ", "base": "lång", "rule": "en-word indefinite singular: no ending"},
+  {"form": "friska", "occurrence": 1, "pos": "ADJ", "base": "frisk", "rule": "definite form after den: -a ending"}
+ ]},
+ {"id": "b030", "blanks": [
+  {"form": "ny", "occurrence": 1, "pos": "ADJ", "base": "ny", "rule": "en-word indefinite singular: no ending"},
+  {"form": "moderna", "occurrence": 1, "pos": "ADJ", "base": "modern", "rule": "plural indefinite before noun: -a ending"},
+  {"form": "färgglada", "occurrence": 1, "pos": "ADJ", "base": "färgglad", "rule": "plural predicative: -a ending"},
+  {"form": "lekfulla", "occurrence": 1, "pos": "ADJ", "base": "lekfull", "rule": "plural predicative: -a ending"},
+  {"form": "mörka", "occurrence": 1, "pos": "ADJ", "base": "mörk", "rule": "plural predicative: -a ending"},
+  {"form": "dystra", "occurrence": 1, "pos": "ADJ", "base": "dyster", "rule": "plural predicative: -a ending"},
+  {"form": "litet", "occurrence": 1, "pos": "ADJ", "base": "liten", "rule": "ett-word indefinite singular: -t ending"},
+  {"form": "rosa", "occurrence": 1, "pos": "ADJ", "base": "rosa", "rule": "indeclinable colour adjective: no ending"},
+  {"form": "spännande", "occurrence": 1, "pos": "ADJ", "base": "spännande", "rule": "present participle adjective, predicative: no ending"}
+ ]},
+ {"id": "b036", "blanks": [
+  {"form": "nya", "occurrence": 1, "pos": "ADJ", "base": "ny", "rule": "plural indefinite before noun: -a ending"},
+  {"form": "vuxen", "occurrence": 1, "pos": "ADJ", "base": "vuxen", "rule": "common-gender predicative after som: no ending"},
+  {"form": "lätt", "occurrence": 1, "pos": "ADJ", "base": "lätt", "rule": "predicative after är: no ending"},
+  {"form": "öppna", "occurrence": 1, "pos": "ADJ", "base": "öppen", "rule": "plural predicative: -a ending"},
+  {"form": "välkomnande", "occurrence": 1, "pos": "ADJ", "base": "välkomnande", "rule": "present participle adjective, predicative: no ending"},
+  {"form": "eget", "occurrence": 1, "pos": "ADJ", "base": "egen", "rule": "ett-word indefinite singular: -t ending"},
+  {"form": "litet", "occurrence": 1, "pos": "ADJ", "base": "liten", "rule": "ett-word indefinite singular: -t ending"}
+ ]},
+ {"id": "b042", "blanks": [
+  {"form": "trasiga", "occurrence": 1, "pos": "ADJ", "base": "trasig", "rule": "definite form after det: -a ending"},
+  {"form": "tungt", "occurrence": 1, "pos": "ADJ", "base": "tung", "rule": "ett-word indefinite singular: -t ending"},
+  {"form": "tidskrävande", "occurrence": 1, "pos": "ADJ", "base": "tidskrävande", "rule": "ett-word indefinite singular participle adjective: no ending"},
+  {"form": "generöst", "occurrence": 1, "pos": "ADV", "base": "generös", "rule": "adverb from adjective generös: -t ending"},
+  {"form": "traditionell", "occurrence": 1, "pos": "ADJ", "base": "traditionell", "rule": "en-word indefinite singular: no ending"},
+  {"form": "fräscht", "occurrence": 1, "pos": "ADJ", "base": "fräsch", "rule": "neuter predicative after ser ut: -t ending"}
+ ]},
+ {"id": "b048", "blanks": [
+  {"form": "stora", "occurrence": 1, "pos": "ADJ", "base": "stor", "rule": "weak form after genitive höstens: -a ending"},
+  {"form": "redo", "occurrence": 1, "pos": "ADJ", "base": "redo", "rule": "predicative, indeclinable: no ending"},
+  {"form": "långsamt", "occurrence": 1, "pos": "ADV", "base": "långsam", "rule": "adverb from adjective långsam: -t ending"},
+  {"form": "dubbla", "occurrence": 1, "pos": "ADJ", "base": "dubbel", "rule": "weak form before definite noun priset: -a ending"},
+  {"form": "orättvist", "occurrence": 1, "pos": "ADJ", "base": "orättvis", "rule": "neuter predicative after det känns: -t ending"},
+  {"form": "mest", "occurrence": 1, "pos": "ADV", "base": "mycket", "rule": "superlative of mycket is irregular: mest"},
+  {"form": "hängivna", "occurrence": 1, "pos": "ADJ", "base": "hängiven", "rule": "plural definite after de: -a ending"}
+ ]},
+ {"id": "b054", "blanks": [
+  {"form": "mulna", "occurrence": 1, "pos": "ADJ", "base": "mulen", "rule": "definite form after det: -a ending"},
+  {"form": "genomblöta", "occurrence": 1, "pos": "ADJ", "base": "genomblöt", "rule": "plural predicative: -a ending"},
+  {"form": "öppen", "occurrence": 1, "pos": "ADJ", "base": "öppen", "rule": "en-word indefinite singular: no ending"},
+  {"form": "sämsta", "occurrence": 1, "pos": "ADJ", "base": "dålig", "rule": "superlative of dålig is irregular: sämst, definite -a"}
+ ]},
+ {"id": "c004", "blanks": [
+  {"form": "allvarligt", "occurrence": 1, "pos": "ADJ", "base": "allvarlig", "rule": "ett-word indefinite singular predicative: -t ending"},
+  {"form": "växande", "occurrence": 1, "pos": "ADJ", "base": "växande", "rule": "present participle adjective, ett-word: no ending"},
+  {"form": "enorma", "occurrence": 1, "pos": "ADJ", "base": "enorm", "rule": "plural indefinite before noun: -a ending"},
+  {"form": "många", "occurrence": 1, "pos": "ADJ", "base": "många", "rule": "plural quantifier, base form used as is"},
+  {"form": "plågsam", "occurrence": 1, "pos": "ADJ", "base": "plågsam", "rule": "en-word indefinite singular: no ending"},
+  {"form": "goda", "occurrence": 1, "pos": "ADJ", "base": "god", "rule": "definite form after den: -a ending"},
+  {"form": "fler", "occurrence": 1, "pos": "ADJ", "base": "många", "rule": "comparative of många is irregular: fler"},
+  {"form": "noggrant", "occurrence": 1, "pos": "ADV", "base": "noggrann", "rule": "adverb from adjective noggrann: -t ending"},
+  {"form": "rena", "occurrence": 1, "pos": "ADJ", "base": "ren", "rule": "plural predicative: -a ending"}
+ ]},
+ {"id": "c010", "blanks": [
+  {"form": "liten", "occurrence": 1, "pos": "ADJ", "base": "liten", "rule": "en-word indefinite singular: no ending"},
+  {"form": "öppen", "occurrence": 1, "pos": "ADJ", "base": "öppen", "rule": "en-word indefinite singular: no ending"},
+  {"form": "dyr", "occurrence": 1, "pos": "ADJ", "base": "dyr", "rule": "en-word predicative after var: no ending"},
+  {"form": "perfekt", "occurrence": 1, "pos": "ADJ", "base": "perfekt", "rule": "invariant adjective, predicative: no ending"},
+  {"form": "trevliga", "occurrence": 1, "pos": "ADJ", "base": "trevlig", "rule": "plural predicative after var: -a ending"},
+  {"form": "större", "occurrence": 1, "pos": "ADJ", "base": "stor", "rule": "comparative of stor is irregular: större"},
+  {"form": "kraftigt", "occurrence": 1, "pos": "ADV", "base": "kraftig", "rule": "adverb from adjective kraftig: -t ending"},
+  {"form": "eget", "occurrence": 1, "pos": "ADJ", "base": "egen", "rule": "ett-word indefinite singular: -t ending"},
+  {"form": "avlägset", "occurrence": 1, "pos": "ADJ", "base": "avlägsen", "rule": "neuter predicative after känns: -t ending"}
+ ]},
+ {"id": "c016", "blanks": [
+  {"form": "fattigt", "occurrence": 1, "pos": "ADJ", "base": "fattig", "rule": "ett-word indefinite singular: -t ending"},
+  {"form": "rikaste", "occurrence": 1, "pos": "ADJ", "base": "rik", "rule": "superlative of rik: rikast, weak -a form after världens"},
+  {"form": "stadigt", "occurrence": 1, "pos": "ADV", "base": "stadig", "rule": "adverb from adjective stadig: -t ending"},
+  {"form": "vanliga", "occurrence": 1, "pos": "ADJ", "base": "vanlig", "rule": "plural indefinite before noun: -a ending"},
+  {"form": "neutralt", "occurrence": 1, "pos": "ADJ", "base": "neutral", "rule": "neuter predicative after förblev: -t ending"},
+  {"form": "modernt", "occurrence": 1, "pos": "ADJ", "base": "modern", "rule": "neuter predicative after är: -t ending"},
+  {"form": "digitalt", "occurrence": 1, "pos": "ADJ", "base": "digital", "rule": "neuter predicative after är: -t ending"},
+  {"form": "starkt", "occurrence": 1, "pos": "ADV", "base": "stark", "rule": "adverb from adjective stark: -t ending"},
+  {"form": "präglat", "occurrence": 1, "pos": "ADJ", "base": "präglad", "rule": "neuter of past participle used as predicative adjective: -t ending"},
+  {"form": "långa", "occurrence": 1, "pos": "ADJ", "base": "lång", "rule": "weak form after sin: -a ending"},
+  {"form": "demokratiska", "occurrence": 1, "pos": "ADJ", "base": "demokratisk", "rule": "weak form before noun after sin: -a ending"}
+ ]},
+ {"id": "c022", "blanks": [
+  {"form": "svenska", "occurrence": 1, "pos": "ADJ", "base": "svensk", "rule": "definite form after den: -a ending"},
+  {"form": "informell", "occurrence": 1, "pos": "ADJ", "base": "informell", "rule": "common-gender predicative after är: no ending"},
+  {"form": "Många", "occurrence": 1, "pos": "ADJ", "base": "många", "rule": "plural quantifier, base form used as is"},
+  {"form": "utländska", "occurrence": 1, "pos": "ADJ", "base": "utländsk", "rule": "plural indefinite before noun: -a ending"},
+  {"form": "förvånade", "occurrence": 1, "pos": "ADJ", "base": "förvånad", "rule": "plural predicative: -e ending"},
+  {"form": "fritt", "occurrence": 1, "pos": "ADV", "base": "fri", "rule": "adverb from adjective fri: -tt ending"},
+  {"form": "självständigt", "occurrence": 1, "pos": "ADV", "base": "självständig", "rule": "adverb from adjective självständig: -t ending"},
+  {"form": "sämre", "occurrence": 1, "pos": "ADJ", "base": "dålig", "rule": "comparative of dålig is irregular: sämre"}
+ ]},
+ {"id": "c028", "blanks": [
+  {"form": "komplicerat", "occurrence": 1, "pos": "ADJ", "base": "komplicerad", "rule": "ett-word indefinite singular of participle adjective: -t ending"},
+  {"form": "positivt", "occurrence": 1, "pos": "ADV", "base": "positiv", "rule": "adverb from adjective positiv: -t ending"},
+  {"form": "överraskad", "occurrence": 1, "pos": "ADJ", "base": "överraskad", "rule": "common-gender predicative participle adjective: no ending"},
+  {"form": "tydlig", "occurrence": 1, "pos": "ADJ", "base": "tydlig", "rule": "en-word indefinite singular: no ending"},
+  {"form": "svaga", "occurrence": 1, "pos": "ADJ", "base": "svag", "rule": "plural indefinite before noun: -a ending"},
+  {"form": "viktiga", "occurrence": 1, "pos": "ADJ", "base": "viktig", "rule": "definite form after de: -a ending"},
+  {"form": "smart", "occurrence": 1, "pos": "ADJ", "base": "smart", "rule": "invariant adjective, predicative: no ending"},
+  {"form": "erfaren", "occurrence": 1, "pos": "ADJ", "base": "erfaren", "rule": "en-word indefinite singular: no ending"}
+ ]},
+ {"id": "c034", "blanks": [
+  {"form": "otroligt", "occurrence": 1, "pos": "ADV", "base": "otrolig", "rule": "adverb from adjective otrolig: -t ending"},
+  {"form": "god", "occurrence": 1, "pos": "ADJ", "base": "god", "rule": "en-word indefinite singular: no ending"},
+  {"form": "mätta", "occurrence": 1, "pos": "ADJ", "base": "mätt", "rule": "plural predicative: -a ending"},
+  {"form": "belåtna", "occurrence": 1, "pos": "ADJ", "base": "belåten", "rule": "plural predicative: -a ending"},
+  {"form": "äldre", "occurrence": 1, "pos": "ADJ", "base": "gammal", "rule": "comparative of gammal is irregular: äldre"},
+  {"form": "roliga", "occurrence": 1, "pos": "ADJ", "base": "rolig", "rule": "plural indefinite before noun: -a ending"},
+  {"form": "barfota", "occurrence": 1, "pos": "ADJ", "base": "barfota", "rule": "invariant adjective, predicative: no ending"},
+  {"form": "mjuka", "occurrence": 1, "pos": "ADJ", "base": "mjuk", "rule": "definite form after den: -a ending"},
+  {"form": "hela", "occurrence": 1, "pos": "ADJ", "base": "hel", "rule": "definite form of hel before kvällen: hela"}
+ ]},
+ {"id": "c040", "blanks": [
+  {"form": "kristallklart", "occurrence": 1, "pos": "ADJ", "base": "kristallklar", "rule": "neuter predicative after var: -t ending"},
+  {"form": "svalt", "occurrence": 1, "pos": "ADJ", "base": "sval", "rule": "neuter predicative after och: -t ending"},
+  {"form": "stilla", "occurrence": 1, "pos": "ADJ", "base": "stilla", "rule": "plural predicative after var: same as base"},
+  {"form": "motsatta", "occurrence": 1, "pos": "ADJ", "base": "motsatt", "rule": "definite form after den: -a ending"},
+  {"form": "starkaste", "occurrence": 1, "pos": "ADJ", "base": "stark", "rule": "superlative of stark: starkast, definite -e form after min"}
+ ]},
+ {"id": "c046", "blanks": [
+  {"form": "sämre", "occurrence": 1, "pos": "ADJ", "base": "dålig", "rule": "comparative of dålig is irregular: sämre"},
+  {"form": "slarvigt", "occurrence": 1, "pos": "ADJ", "base": "slarvig", "rule": "neuter predicative after kändes: -t ending"},
+  {"form": "många", "occurrence": 1, "pos": "ADJ", "base": "många", "rule": "plural quantifier, base form used as is"},
+  {"form": "nya", "occurrence": 1, "pos": "ADJ", "base": "ny", "rule": "plural definite after de: -a ending"},
+  {"form": "platta", "occurrence": 1, "pos": "ADJ", "base": "platt", "rule": "plural predicative: -a ending"},
+  {"form": "ointressanta", "occurrence": 1, "pos": "ADJ", "base": "ointressant", "rule": "plural predicative: -a ending"},
+  {"form": "onödigt", "occurrence": 1, "pos": "ADV", "base": "onödig", "rule": "adverb from adjective onödig: -t ending"},
+  {"form": "långa", "occurrence": 1, "pos": "ADJ", "base": "lång", "rule": "plural predicative after var: -a ending"},
+  {"form": "verkligen", "occurrence": 1, "pos": "ADV", "base": "verklig", "rule": "adverb from adjective verklig: -en ending"}
+ ]},
+ {"id": "c052", "blanks": [
+  {"form": "fler", "occurrence": 1, "pos": "ADJ", "base": "många", "rule": "comparative of många is irregular: fler"},
+  {"form": "unga", "occurrence": 1, "pos": "ADJ", "base": "ung", "rule": "plural indefinite before noun: -a ending"},
+  {"form": "obetalda", "occurrence": 1, "pos": "ADJ", "base": "obetald", "rule": "plural indefinite of participle adjective: -a ending"},
+  {"form": "oskyldiga", "occurrence": 1, "pos": "ADJ", "base": "oskyldig", "rule": "plural predicative: -a ending"},
+  {"form": "lavinartat", "occurrence": 1, "pos": "ADV", "base": "lavinartad", "rule": "adverb from adjective lavinartad: -t ending"},
+  {"form": "ekonomiska", "occurrence": 1, "pos": "ADJ", "base": "ekonomisk", "rule": "plural indefinite before noun: -a ending"},
+  {"form": "svårare", "occurrence": 1, "pos": "ADJ", "base": "svår", "rule": "comparative of svår: -are ending"},
+  {"form": "klokt", "occurrence": 1, "pos": "ADJ", "base": "klok", "rule": "neuter predicative after är det: -t ending"},
+  {"form": "finstilta", "occurrence": 1, "pos": "ADJ", "base": "finstilt", "rule": "definite form of substantivized neuter adjective after det: -a ending"}
+ ]}
+]

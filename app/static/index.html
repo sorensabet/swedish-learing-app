@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Svenska Practice</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <header>
+    <h1>Svenska</h1>
+    <nav id="tabs">
+      <button data-tab="nouns" class="active">Substantiv</button>
+      <button data-tab="verbs">Verb</button>
+      <button data-tab="cloze">Adjektiv &amp; adverb</button>
+      <button data-tab="translate">Översätt</button>
+      <button data-tab="progress">Framsteg</button>
+    </nav>
+  </header>
+
+  <main>
+    <section id="toolbar"></section>
+    <section id="summary" class="summary"></section>
+    <section id="card" class="card"></section>
+    <section id="feedback"></section>
+    <section id="actions" class="actions"></section>
+  </main>
+
+  <template id="translate-toolbar">
+    <div class="toolbar-row">
+      <label>Deck <select id="deck-select"></select></label>
+      <label>Direction
+        <select id="direction-select">
+          <option value="both">Both directions</option>
+          <option value="sv2en">Swedish → English</option>
+          <option value="en2sv">English → Swedish</option>
+        </select>
+      </label>
+      <button id="delete-deck" class="ghost">Delete deck</button>
+    </div>
+    <form id="upload-form" class="toolbar-row">
+      <input type="file" name="file" accept=".csv,.tsv,.txt" required>
+      <input type="text" name="name" placeholder="Deck name (optional)">
+      <button type="submit">Upload CSV</button>
+      <span class="hint">Two columns: swedish,english. Separate alternative answers with ; or /</span>
+    </form>
+  </template>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
